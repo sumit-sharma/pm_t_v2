@@ -9,3 +9,8 @@ h1.log_header {
 .newd {
   max-height: '300px';
 }
+
+.help_text{
+  font-size: smaller;
+  color: #f9a61a;
+}
